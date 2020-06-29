@@ -1,6 +1,6 @@
 # Streamlit Apps
 
-Trying out Streamlit features.
+Trying out [Streamlit](https://docs.streamlit.io) features.
 Using a dataset of Parisian trees, their types and coordinates.
 
 
