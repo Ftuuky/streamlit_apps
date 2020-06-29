@@ -6,7 +6,7 @@ st.title('Parisian Trees')
 
 HEIGHT_COLUMN = 'height_m'
 TYPE_COLUMN = 'tree_type'
-DATA = ("C:\\Users\\ftuuk\\Documents\\Arbres\\map.csv")
+DATA = ("https://docs.google.com/spreadsheets/d/1_tncRQH_qM2fCEk6OkZgrCWol8f3ZHrHEaMOFZkLJSw/edit?usp=sharing")
 
 @st.cache
 def load_data(nrows):
